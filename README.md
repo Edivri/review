@@ -1,2 +1,2 @@
 # review
-<img  scr="boss.png">
+<img  src="boss.png">
